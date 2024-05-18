@@ -1,4 +1,4 @@
-# CS561 Database Management Systems 1
+# CS561 Database Management Systems I
 Stevens Institute of Technology CS561 Database Management Systems I - Fall 2022 Assignments
 
 Initially, run `load_sales_1000_table.sql` file to load the data. 
